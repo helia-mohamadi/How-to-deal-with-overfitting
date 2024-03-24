@@ -1,7 +1,4 @@
 # How-to-deal-with-overfitting
-
-# Iris Flower Classification with Dropout and Batch Normalization
-
 This repository contains a Python script for building a neural network to classify Iris flowers based on the Iris dataset. Two different techniques, dropout and batch normalization, have been employed to enhance the performance of the neural network.
 
 ## Problem Statement
